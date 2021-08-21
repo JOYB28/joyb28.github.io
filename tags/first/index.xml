@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>first on Joyb Blog</title>
+    <link>https://examplesite.com/tags/first/</link>
+    <description>Recent content in first on Joyb Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 21 Aug 2021 20:30:00 +0900</lastBuildDate><atom:link href="https://examplesite.com/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>https://examplesite.com/posts/post/</link>
+      <pubDate>Sat, 21 Aug 2021 20:30:00 +0900</pubDate>
+      
+      <guid>https://examplesite.com/posts/post/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
